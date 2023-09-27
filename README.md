@@ -1,1 +1,25 @@
 # Capstone-Project-1---Breast-Cancer-prognosis
+1. Problem Statement: Predicting breast cancer stage, and outcomes utilizing the prevalence of 4 breast cancer-related proteins, and hormone receptor status. 
+        Central Questions 
+   1. What factors (protein levels, receptor status, etc.) influence survival of the individual?
+   2. Can protein levels and receptor status be used as an accurate indicator of the stage of breast cancer?
+   3. What demographic data trends are seen within the dataset of breast cancer patients?
+
+
+2. Context: Breast cancer is one of the leading causes of death among middle-aged and older women around the world. Breast cancer diagnosis and prognosis are influenced by various factors such as protein prevalence, hormone receptor status, site of onset, symptoms, age, and health status of the individual. This dataset provides information on the levels of four proteins, the stage, the type, and the receptor status of the cancer. Additionally, the dataset includes information on the patient's sex, age, mortality status, the type of surgery performed, and their last clinical visit.
+
+
+3. Criteria for Success: Finding significant correlations between protein or receptor status with the stage of cancer, and prognosis. Analyzing the mortality rates associated with protein levels, receptor status, type of cancer, and type of surgery. A slidedeck and a report will be submitted regarding the findings gathered during the study. Additionally, a program will be created in which users can input data regarding their protein levels, and receptor status to determine prognosis (if proven to be a significant measure). 
+
+
+4. Scope of Solution Space: Prognosis prediction will be based on evaluating correlations and influences on the mortality status of the individual, whether it may be the stage of cancer, protein levels, etc. Exploratory data analysis will be used to find trends within data and determine what demographics are most affected by breast cancer, and whether protein levels can be utilized as a predictor for outcome and stage.
+
+
+5. Constraints: The dataset does not provide information on the race, ethnicity, or genetics of the patient that could influence their prognosis and outcomes. The estrogen receptor status and the progesterone receptor status are positive for all individuals which will greatly increase treatment options and improve prognosis. Detailed descriptions of the four proteins are not provided, creating an inability to study the protein and its specific roles. 
+
+
+6. Stakeholders: Doctors, and healthcare professionals who want an effective and accurate way of assessing cancer stage and prognosis. Individuals with breast cancer who want to assess their outcomes. 
+
+
+7. Data Source: https://www.kaggle.com/datasets/kellistephenson/increasing-breast-cancer-awareness
+The Data source provides information on patients with breast cancer including, the levels of four proteins, their sex, their age, their receptor status, the cancer stage, the type of cancer, scheduled surgeries, their mortality status, and their last visit to the clinic.
